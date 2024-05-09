@@ -1,4 +1,4 @@
-# OBSENE
+# OBSCENE
 
 Clean files with obcene words.
 
