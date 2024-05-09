@@ -1,4 +1,4 @@
-BINARY=bin
+BINARY=obscene
 CODEDIRS=. lib
 INCDIRS=. ./include/ # can be list
 
